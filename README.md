@@ -2,7 +2,7 @@
 Pixel sort your images.
 
 ## Installation
-```shell
+```console
 $ sh build.sh
 ```
 
